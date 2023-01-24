@@ -22,21 +22,21 @@ For the use of http security header, we @ekir refer to the respective applicable
 - TSS-Web Framework, Appendix A: Requirements for HTTP Security Header
 - https://secodis.atlassian.net/wiki/spaces/TSSWEB/pages/1015832/Appendix+A+Requirements+for+HTTP+Security+Header
 
-#### http security header - implementation
+#### implementation
 - this minimum standard is intended for general use cases
 - the requirements of the above technical guidelines must be implemented
 - in case of configuration conflicts, the standard of the dutch national cyber security centre shall be preferred.
 - in special individual cases, a deviation from the minimum standard may be appropriate.
 
+#### Caution
+settings these headers may have implications on the proper functionality of a web application. Therefore, activating a new header should always be combined with comprehensive functional tests.
+
 ## audit
 
-#### tls audit for public websites
+#### header audit for public Internet services
 tests for websites can be carried out with
-- https://internet.nl/ ( test your website ) and
-- https://www.ssllabs.com/ssltest ( please select "X Do not show the results on the boards")
-
-#### tls audit for other public Internet services
-tests for public internet services can be carried out with
+- https://securityheaders.com/ (please select "X Hide result")
 - https://observatory.mozilla.org ( please select "x Don't include my site in the public results")
 
-
+#### header evaluator
+- https://csp-evaluator.withgoogle.com/
