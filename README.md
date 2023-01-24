@@ -8,7 +8,7 @@ Version: 0.1
 - The following describes the corresponding specifications and recommendations
 
 #### scope
-- public accessible web applications of the Evangelical Church in the Rhineland (EKiR)
+- public accessible web applications of the Evangelical Church in Rhineland (EKiR)
 
 ### our goals
 - organization-wide implementation of http security headers on servers
