@@ -24,7 +24,7 @@ For the use of http security header, we @ekir refer to the respective applicable
 
 #### implementation
 - this minimum standard is intended for general use cases
-- the requirements of the tss-web "appendix a: requirements for http security header must be implemented"
+- the requirements of the tss-web "appendix a: requirements for http security header" must be implemented
 - activating a new header should always be combined with comprehensive functional tests
 - notice! settings these headers may have implications on the proper functionality of a web application.
 - in special individual cases, a deviation from the minimum standard may be appropriate.
