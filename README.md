@@ -24,12 +24,10 @@ For the use of http security header, we @ekir refer to the respective applicable
 
 #### implementation
 - this minimum standard is intended for general use cases
-- the requirements of the above technical guidelines must be implemented
-- in case of configuration conflicts, the standard of the dutch national cyber security centre shall be preferred.
+- the requirements of the tss-web "appendix a: requirements for http security header must be implemented"
+- activating a new header should always be combined with comprehensive functional tests
+- notice! settings these headers may have implications on the proper functionality of a web application.
 - in special individual cases, a deviation from the minimum standard may be appropriate.
-
-##### ! Caution !
-settings these headers may have implications on the proper functionality of a web application. Therefore, activating a new header should always be combined with comprehensive functional tests.
 
 #### header audit for public Internet services
 tests for websites can be carried out with
