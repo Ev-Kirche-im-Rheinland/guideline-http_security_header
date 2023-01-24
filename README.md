@@ -11,13 +11,13 @@ Version: 0.1
 - public web services, websites and applications of the Evangelical Church in Rhineland (EKiR)
 - provided by the church itself or by third parties
 
-### our goals
+#### our goals
 - organization-wide implementation of http security headers on servers
 - limitation to the most important points and comprehensible instructions for action
 - our public websites and services shall have a http security header configuration
 - future-proof configuration http security headers
 
-## http security header minimum standard
+#### http security header minimum standard
 For the use of http security header, we @ekir refer to the respective applicable version of the 
 - TSS-Web Framework, Appendix A: Requirements for HTTP Security Header
 - https://secodis.atlassian.net/wiki/spaces/TSSWEB/pages/1015832/Appendix+A+Requirements+for+HTTP+Security+Header
@@ -30,8 +30,6 @@ For the use of http security header, we @ekir refer to the respective applicable
 
 #### Caution
 settings these headers may have implications on the proper functionality of a web application. Therefore, activating a new header should always be combined with comprehensive functional tests.
-
-## audit
 
 #### header audit for public Internet services
 tests for websites can be carried out with
