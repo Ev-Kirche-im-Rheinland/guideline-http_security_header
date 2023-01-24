@@ -34,5 +34,6 @@ tests for websites can be carried out with
 - https://securityheaders.com/ (please select "X Hide result")
 - https://observatory.mozilla.org ( please select "x Don't include my site in the public results")
 
-#### header evaluator
+#### header evaluator / header-tools
 - https://csp-evaluator.withgoogle.com/
+- https://report-uri.com/home/tools
