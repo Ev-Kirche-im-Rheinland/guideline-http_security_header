@@ -3,11 +3,11 @@ These guidelines are mandatory when procuring, setting up and verifying configur
 
 Version: 0.1
 
-### introduction
+#### introduction
 - in modern browsers, various protective functions can be activated by setting http response headers, thereby increasing the security level of a web application.
 - The following describes the corresponding specifications and recommendations
 
-### scope
+#### scope
 - public accessible web applications of the Evangelical Church in the Rhineland (EKiR)
 
 ### our goals
