@@ -28,7 +28,7 @@ For the use of http security header, we @ekir refer to the respective applicable
 - in case of configuration conflicts, the standard of the dutch national cyber security centre shall be preferred.
 - in special individual cases, a deviation from the minimum standard may be appropriate.
 
-#### Caution
+##### ! Caution !
 settings these headers may have implications on the proper functionality of a web application. Therefore, activating a new header should always be combined with comprehensive functional tests.
 
 #### header audit for public Internet services
