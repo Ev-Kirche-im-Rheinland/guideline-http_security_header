@@ -1,5 +1,5 @@
 # guideline-http_security_header
-Guideline for configuring http security headers on servers
+These guidelines describe the mandatory minimum standards for obtaining, setting up, and verifying configurations of http security headers.
 
 Version: 1.0.2
 
